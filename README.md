@@ -93,6 +93,7 @@ For browser platform,
   **GOOGLE_MAPS_ANDROID_SDK = (maps-sdk-3.0.0-beta)**<br>
     cordova-plugin-googlemaps version 2.8.0 or later uses [Maps SDK for Android v.3](https://developers.google.com/maps/documentation/android-sdk/v3-client-migration).
 
+
   - ![](https://raw.githubusercontent.com/mapsplugin/cordova-plugin-googlemaps/master/images/icon-ios.png) **LOCATION_WHEN_IN_USE_DESCRIPTION**<br>
     This message is displayed when your application requests **LOCATION PERMISSION for only necessary times**.
 
@@ -110,7 +111,6 @@ For browser platform,
 ---------------------------------------------------------------------------------------------------------
 
 ## Release Notes
-
   - **v2.8.0**
     - Important Change: (Android)
       If `android.useAndroidX=true` and `android.enableJetifier=true` are defined in `gradle.properties`,
